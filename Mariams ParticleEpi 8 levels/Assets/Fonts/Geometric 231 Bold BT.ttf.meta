@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 61400d0bf5eb202489f7cd5367479091
+timeCreated: 1498770659
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Geometr231 BT
+  fontNames:
+  - Geometr231 BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
